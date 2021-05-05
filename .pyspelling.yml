@@ -1,0 +1,15 @@
+matrix:
+
+- name: markdown
+  aspell:
+    ignore-case: true
+    lang: en
+    d: en_US
+  dictionary:
+    wordlists:
+      - .wordlist.txt
+  pipeline:
+  - pyspelling.filters.markdown
+  sources:
+  - "README.md"
+  default_encoding: utf-8
