@@ -1,0 +1,14 @@
+# IDE
+.idea/
+
+# local
+.tmp/
+
+# Ruby
+Gemfile.lock
+
+# Jekyll
+_site/
+
+# Pyspelling
+*.dic
