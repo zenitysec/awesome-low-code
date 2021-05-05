@@ -1,0 +1,12 @@
+name: Awesome Low Code PR validation
+
+on: [pull_request]
+
+jobs:
+  Awesome_Lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - run: npx awesome-lint
