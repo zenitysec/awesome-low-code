@@ -11,5 +11,5 @@ matrix:
   pipeline:
   - pyspelling.filters.markdown
   sources:
-  - "README.md"
+  - "readme.md"
   default_encoding: utf-8
