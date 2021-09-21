@@ -17,7 +17,9 @@
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.## Platforms
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## Platforms
 
 ### Citizen Automation and Development Platform
 
