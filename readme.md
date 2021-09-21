@@ -15,8 +15,6 @@
    - [Business Process Automation](#Business Process Automation)
    - [Low Code API Management Platform](#Low Code API Management Platform)
 
-## Contribute
-
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## Platforms
