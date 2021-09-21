@@ -4,8 +4,8 @@
 
 ## Contents
 
-- [Platforms](#Platforms)
-   - [Citizen Automation and Development Platform](#citizen automation-and-development-platform)
+- [Platforms](#platforms)
+   - [Citizen Automation and Development Platform](#citizen-automation-and-development-platform)
    - [Integration Platform as a Service](#integration-platform-as-a-service)
    - [Robotic Process Automation](#robotic-process-automation)
    - [Low Code Application Platform](#low-code-application-platform)
