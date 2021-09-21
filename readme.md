@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [Categories](#Categories)
+- [Categories](#categories)
 - [Another Section](#another-section)
 
 
