@@ -5,11 +5,11 @@
 
 ## Contents
 
-- [Categories](#section)
+- [Categories](#Categories)
 - [Another Section](#another-section)
 
 
-## Section
+## Categories
 
 About this section. Optional. Keep this short and focus on the list.
 
