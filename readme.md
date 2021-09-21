@@ -5,7 +5,7 @@
 ## Contents
 
 - [Platforms](#platforms)
-   - [Citizen Automation and Development Platform](#citizen-automation-and-development-platform)
+[comment]: <> (   - [Citizen Automation and Development Platform]&#40;#citizen-automation-and-development-platform&#41;)
    - [Integration Platform as a Service](#integration-platform-as-a-service)
    - [Robotic Process Automation](#robotic-process-automation)
    - [Low Code Application Platform](#low-code-application-platform)
@@ -19,19 +19,17 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Platforms
 
-### Citizen Automation and Development Platform
-
-A development platform for business users (citizen developer is a term for business users, not a role or a job title) that doesn't require coding skills and is based on intuitive drag&drop interfaces. Applications created in such platforms are usually made to automate or improve efficiency of business processes and of personal productivity, without going through IT. CADP are usually consumed as SaaS.
-
-- [Zapier](https://zapier.com/) - By Zapier.
-- [Workato](https://workato.com/) - By Workato.
-- [Einstein Automate](https://www.salesforce.com/products/platform/einstein-automate/) - By Salesforce.
-- [Trello Power-Ups](https://trello.com/power-ups/category/automation) - By Atlassian.
-- [Zoho Flow](https://www.zoho.com/flow/) - By Zoho.
-- [BettyBlocks](https://www.bettyblocks.com/) - By BettyBlocks.
-- [AgilePoint](https://agilepoint.com/) - By AgilePoint.
-- [QuickBase](https://www.quickbase.com/) - By QuickBase.
-- [TrackVia](https://trackvia.com/) - By TrackVia.
+[comment]: <> (### Citizen Automation and Development Platform)
+[comment]: <> (A development platform for business users &#40;citizen developer is a term for business users, not a role or a job title&#41; that doesn't require coding skills and is based on intuitive drag&drop interfaces. Applications created in such platforms are usually made to automate or improve efficiency of business processes and of personal productivity, without going through IT. CADP are usually consumed as SaaS.)
+[comment]: <> (- [Zapier]&#40;https://zapier.com/&#41; - By Zapier.)
+[comment]: <> (- [Workato]&#40;https://workato.com/&#41; - By Workato.)
+[comment]: <> (- [Einstein Automate]&#40;https://www.salesforce.com/products/platform/einstein-automate/&#41; - By Salesforce.)
+[comment]: <> (- [Trello Power-Ups]&#40;https://trello.com/power-ups/category/automation&#41; - By Atlassian.)
+[comment]: <> (- [Zoho Flow]&#40;https://www.zoho.com/flow/&#41; - By Zoho.)
+[comment]: <> (- [BettyBlocks]&#40;https://www.bettyblocks.com/&#41; - By BettyBlocks.)
+[comment]: <> (- [AgilePoint]&#40;https://agilepoint.com/&#41; - By AgilePoint.)
+[comment]: <> (- [QuickBase]&#40;https://www.quickbase.com/&#41; - By QuickBase.)
+[comment]: <> (- [TrackVia]&#40;https://trackvia.com/&#41; - By TrackVia.)
 
 ### Integration Platform as a Service
 
