@@ -2,6 +2,7 @@
 
 > A curated list of Awesome Low Code platforms, vendors and categories
 
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## Contents
 
@@ -21,7 +22,3 @@ About this section. Optional. Keep this short and focus on the list.
 ### Subsection
 
 - [List item](http://google.com)
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
