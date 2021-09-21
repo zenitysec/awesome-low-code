@@ -35,8 +35,8 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 A platform that help organizations control, simplify and standardize the way that applications are integrated (internally developed or 3rd party SaaS). Such platforms help to share data between applications, automate business workflows and remove manual error prone ones, in an advanced controlled manner. iPaaS also enables more types of personas to integrate applications, removing the constant dependency on software developers. iPaaS can be deployed within an organization either as a SaaS or as on-premises appliance.
 
-- [Power Automate](https://flow.microsoft.com/) - By Microsoft.
-- [Zapier](https://zapier.com/) - By Zapier.
+- [Azure Logic Apps](https://azure.microsoft.com/en-us/services/logic-apps/) - Microsoft's integration platform as a service (iPaaS) built on a containerized runtime.
+[comment]: <> (- [Zapier]&#40;https://zapier.com/&#41; - By Zapier.)
 - [MuleSoft](https://mulesoft.com/) - By Salesforce.
 - [Workato iPaaS](https://www.workato.com/platform#next_gen_ipaas) - By Workato.
 - [Einstein Automate](https://www.salesforce.com/products/platform/einstein-automate/) - By Salesforce.
@@ -91,7 +91,7 @@ A platform that enable organizations to easily integrate data and build business
 A software application that is built and configured by its users to perform manual repetitive and error prone tasks in an automated faster fashion. Bots are built and configured mostly in low code platforms via easy to use drag&drop interfaces. Examples to the use of bots could be seen in user conversation via messaging and voice platforms that help them take decisions and act through business processes.
 
 - [Power Virtual Agents](https://powervirtualagents.microsoft.com/) - By Microsoft.
-- [Workato Enterprise Chat Bots](https://www.workato.com/platform#enterprise_chat_bots) - By Workato.
+- [Workato Workbot](https://docs.workato.com/workbot/overview.html) - Workbot is a bot platform that allows you to build customizable workflows.
 - [Appian](https://appian.com/) - By Appian.
 - [OutSystems](https://www.outsystems.com/) - By OutSystems.
 - [Pega](https://www.pega.com/) - By Pega.
@@ -146,5 +146,5 @@ An automation platform that enables business users with no coding background to 
 TBD
 
 - [MuleSoft](https://mulesoft.com/) - By Salesforce.
-- [Workato API Management](https://www.workato.com/platform#low_code_api_management) - By Workato.
+- [Workato API Management](https://docs.workato.com/api-management.html) - Turn callable recipes into endpoints and organize the endpoints into API collections, making it easier for users to find and consume the endpoints through other recipes or third-party apps, without requiring access to your Workato account.
 - [OutSystems](https://www.outsystems.com/) - By OutSystems.
