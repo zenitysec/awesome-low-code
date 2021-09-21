@@ -2,18 +2,18 @@
 
 > A curated list of Awesome Low Code platforms, vendors and categories
 
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## Contents
 
-- [Categories](#section)
+- [Categories](#categories)
 - [Another Section](#another-section)
 
 
-## Section
+## Categories
 
 About this section. Optional. Keep this short and focus on the list.
 
-- [List item](http://example.com)
 - [List item](http://example.com)
 
 
@@ -21,10 +21,4 @@ About this section. Optional. Keep this short and focus on the list.
 
 ### Subsection
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+- [List item](http://google.com)

@@ -135,3 +135,6 @@ zoho
 Automations
 PaaS
 SaaS
+blockquote
+img
+src
