@@ -23,7 +23,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 A development platform for business users (citizen developer is a term for business users, not a role or a job title) that doesn't require coding skills and is based on intuitive drag&drop interfaces. Applications created in such platforms are usually made to automate or improve efficiency of business processes and of personal productivity, without going through IT. CADP are usually consumed as SaaS.
 
-- [Power Automate](https://flow.microsoft.com/) - By Microsoft.
 - [Zapier](https://zapier.com/) - By Zapier.
 - [Workato](https://workato.com/) - By Workato.
 - [Einstein Automate](https://www.salesforce.com/products/platform/einstein-automate/) - By Salesforce.
@@ -41,15 +40,15 @@ A platform that help organizations control, simplify and standardize the way tha
 - [Power Automate](https://flow.microsoft.com/) - By Microsoft.
 - [Zapier](https://zapier.com/) - By Zapier.
 - [MuleSoft](https://mulesoft.com/) - By Salesforce.
-- [Workato](https://workato.com/) - By Workato.
+- [Workato iPaaS](https://www.workato.com/platform#next_gen_ipaas) - By Workato.
 - [Einstein Automate](https://www.salesforce.com/products/platform/einstein-automate/) - By Salesforce.
 
 ### Robotic Process Automation
 
 An automation platform that helps organizations remove human manual intensive processes and avoid errors, as well as making sure human required attention is efficiently maximized only on critical aspects of work. RPA technology introduced the concept of software robots, built by the end-user humans, to perform repetitive manual intensive processes in an automation fashion, and can understand and processes computer interactions with SaaS and on-premises applications just like a human-being. RPA technologies involve building, deploying, and managing those software robots.
 
-- [Power Automate](https://flow.microsoft.com/) - By Microsoft.
-- [Workato](https://workato.com/) - By Workato.
+- [Power Automate Desktop](https://powerautomate.microsoft.com/en-us/robotic-process-automation/) - By Microsoft.
+- [Workato RPA](https://www.workato.com/platform#modern_rpa) - By Workato.
 - [Appian](https://appian.com/) - By Appian.
 - [Now Platform](https://www.servicenow.com/now-platform.html) - By ServiceNow.
 - [Pega](https://www.pega.com/) - By Pega.
@@ -94,7 +93,7 @@ A platform that enable organizations to easily integrate data and build business
 A software application that is built and configured by its users to perform manual repetitive and error prone tasks in an automated faster fashion. Bots are built and configured mostly in low code platforms via easy to use drag&drop interfaces. Examples to the use of bots could be seen in user conversation via messaging and voice platforms that help them take decisions and act through business processes.
 
 - [Power Virtual Agents](https://powervirtualagents.microsoft.com/) - By Microsoft.
-- [Workato](https://workato.com/) - By Workato.
+- [Workato Enterprise Chat Bots](https://www.workato.com/platform#enterprise_chat_bots) - By Workato.
 - [Appian](https://appian.com/) - By Appian.
 - [OutSystems](https://www.outsystems.com/) - By OutSystems.
 - [Pega](https://www.pega.com/) - By Pega.
@@ -103,7 +102,7 @@ A software application that is built and configured by its users to perform manu
 
 Software components that apply advanced science techniques (including machine learning) to automate data analysis, decision making and taking action. Examples to use of AI could be seen in document digitization, text translation, image classification and more.
 
-- [Power Automate](https://flow.microsoft.com/) - By Microsoft.
+- [Power Automate AI Builder](https://powerautomate.microsoft.com/en-us/ai-builder/) - By Microsoft.
 - [Power Virtual Agents](https://powervirtualagents.microsoft.com/) - By Microsoft.
 - [Einstein Automate](https://www.salesforce.com/products/platform/einstein-automate/) - By Salesforce.
 - [Salesforce Platform](https://www.salesforce.com/products/platform) - By Salesforce.
@@ -121,10 +120,10 @@ Software components that apply advanced science techniques (including machine le
 
 An automation platform that enables business users with no coding background to automate complicated business workflows and actions by providing an easy to use drag&drop interface. Automations that are built in such platforms are usually built in an event-driven mode (triggers) around critical business processes. BPA can be consumed via a SaaS or an on-premises appliance.
 
-- [Power Automate](https://flow.microsoft.com/) - By Microsoft.
+- [Power Automate Process Advisor](https://powerautomate.microsoft.com/en-us/process-advisor/) - By Microsoft.
 - [Zapier](https://zapier.com/) - By Zapier.
 - [MuleSoft](https://mulesoft.com/) - By Salesforce.
-- [Workato](https://workato.com/) - By Workato.
+- [Workato Workflow Automation](https://www.workato.com/platform#enterprise_workflow_automation) - By Workato.
 - [Einstein Automate](https://www.salesforce.com/products/platform/einstein-automate/) - By Salesforce.
 - [Salesforce Platform](https://www.salesforce.com/products/platform) - By Salesforce.
 - [Jira Automation](https://www.atlassian.com/software/jira/features/automation) - By Atlassian.
@@ -149,5 +148,5 @@ An automation platform that enables business users with no coding background to 
 TBD
 
 - [MuleSoft](https://mulesoft.com/) - By Salesforce.
-- [Workato](https://workato.com/) - By Workato.
+- [Workato API Management](https://www.workato.com/platform#low_code_api_management) - By Workato.
 - [OutSystems](https://www.outsystems.com/) - By OutSystems.
