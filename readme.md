@@ -5,15 +5,15 @@
 ## Contents
 
 - [Platforms](#Platforms)
-   - [Citizen Automation and Development Platform](#Citizen Automation and Development Platform)
-   - [Integration Platform as a Service](#Integration Platform as a Service)
-   - [Robotic Process Automation](#Robotic Process Automation)
-   - [Low Code Application Platform](#Low Code Application Platform)
-   - [Low Code Business Analytics Platform](#Low Code Business Analytics Platform)
-   - [Intelligent Virtual Agent](#Intelligent Virtual Agent)
-   - [Artificial Intelligence](#Artificial Intelligence)
-   - [Business Process Automation](#Business Process Automation)
-   - [Low Code API Management Platform](#Low Code API Management Platform)
+   - [Citizen Automation and Development Platform](#citizen automation-and-development-platform)
+   - [Integration Platform as a Service](#integration-platform-as-a-service)
+   - [Robotic Process Automation](#robotic-process-automation)
+   - [Low Code Application Platform](#low-code-application-platform)
+   - [Low Code Business Analytics Platform](#low-code-business-analytics-platform)
+   - [Intelligent Virtual Agent](#intelligent-virtual-agent)
+   - [Artificial Intelligence](#artificial-intelligence)
+   - [Business Process Automation](#business-process-automation)
+   - [Low Code API Management Platform](#low-code-api-management-platform)
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
