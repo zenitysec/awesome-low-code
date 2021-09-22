@@ -2,6 +2,8 @@
 
 > A curated list of Awesome Low Code platforms, vendors and categories
 
+Contributions welcome! Please, read the [contribution guidelines](contributing.md) first.
+
 ## Contents
 
 - [Platforms](#platforms)
@@ -13,8 +15,6 @@
    - [Intelligent Virtual Agent](#intelligent-virtual-agent)
    - [Business Process Automation](#business-process-automation)
    - [Low Code API Management Platform](#low-code-api-management-platform)
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## Platforms
 
