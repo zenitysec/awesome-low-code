@@ -13,7 +13,6 @@ Contributions welcome! Please, read the [contribution guidelines](contributing.m
    - [Low Code Application Platform](#low-code-application-platform)
    - [Business Process Management](#business-process-management)
    - [Intelligent Virtual Agent](#intelligent-virtual-agent)
-   - [Business Process Automation](#business-process-automation)
    - [Low Code API Management Platform](#low-code-api-management-platform)
 
 ## Platforms
