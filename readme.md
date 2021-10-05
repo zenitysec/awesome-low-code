@@ -61,7 +61,7 @@ An advanced development platform that enable organizations to create powerful en
 
 ### Low Code Business Process Management
 
-A Low Code Application Platform dedicated to streamlining business proccesses.
+A Low Code Application Platform dedicated to streamlining business processes.
 
 - [PegaSystems](https://www.pega.com/) - PegaSystems provides business process and customer relationship management solutions for organizations.
 - [AgilePoint](https://agilepoint.com/) - Deploy business-changing ideas in minutes, not months, with the AgilePoint digital process automation platform.
@@ -75,16 +75,14 @@ A Low Code Application Platform dedicated to streamlining business proccesses.
 
 ### Intelligent Virtual Agent
 
-A software application that is built and configured by its users to perform manual repetitive and error prone tasks in an automated faster fashion. Bots are built and configured mostly in low code platforms via easy to use drag&drop interfaces. Examples to the use of bots could be seen in user conversation via messaging and voice platforms that help them take decisions and act through business processes.
+A software application which is built and configured by its users to perform manual repetitive and error prone tasks in an automated faster fashion. Bots are built and configured mostly in low code platforms via easy to use drag&drop interfaces. Examples to the use of bots could be seen in user conversation via messaging and voice platforms that help them take decisions and act through business processes.
 
 - [Power Virtual Agents (Microsoft)](https://powervirtualagents.microsoft.com/) - Power Virtual Agents lets you create powerful chatbots that can answer questions posed by your customers, other employees, or visitors to your website or service.
 - [Workato Workbot](https://docs.workato.com/workbot/overview.html) - Workbot is a bot platform that allows you to build customizable workflows.
 
 ### Low Code API Management Platform
 
-A Low Code platforms that supports full lifecycle API management, including creation, managament and monitoring of API endpoints.
-
-Some Low Code platforms  unified, single solution for iPaaS and full lifecycle API management. Anypoint Platform, including CloudHub™ and Mule ESB™, is built on proven open-source software for fast and reliable on-premises and cloud integration withou
+A Low Code platform which supports full lifecycle API management, including creation, management and monitoring of API endpoints.
 
 - [MuleSoft](https://www.mulesoft.com/platform/api-management) - Use Anypoint Platform™ to manage your API lifecycle, quickly design, test, and publish APIs.
 - [Workato API Management](https://docs.workato.com/api-management.html) - Turn callable recipes into endpoints and organize the endpoints into API collections, making it easier for users to find and consume the endpoints through other recipes or third-party apps, without requiring access to your Workato account.
