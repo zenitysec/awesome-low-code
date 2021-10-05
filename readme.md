@@ -1,6 +1,6 @@
 # Awesome Low Code [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of Awesome Low Code platforms, vendors and categories
+> A curated list of Awesome Low Code platforms, vendors, tools and resources.
 
 Contributions welcome! Please, read the [contribution guidelines](contributing.md) first.
 
