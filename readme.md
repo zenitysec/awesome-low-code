@@ -59,9 +59,9 @@ An advanced development platform that enable organizations to create powerful en
 - [APEX (Oracle)](https://apex.oracle.com/en/platform/low-code/) - Oracle Application Express (APEX) is a low-code development platform that enables you to build scalable, secure enterprise apps, with world-class features, that can be deployed anywhere.
 - [Salesforce Platform, prev. Force.com (Salesforce)](https://www.salesforce.com/products/platform) - Click, create, and ship from anywhere with low code.
 
-### Business Process Management
+### Low Code Business Process Management
 
-TBD
+A Low Code Application Platform dedicated to streamlining business proccesses.
 
 - [PegaSystems](https://www.pega.com/) - PegaSystems provides business process and customer relationship management solutions for organizations.
 - [AgilePoint](https://agilepoint.com/) - Deploy business-changing ideas in minutes, not months, with the AgilePoint digital process automation platform.
@@ -82,7 +82,9 @@ A software application that is built and configured by its users to perform manu
 
 ### Low Code API Management Platform
 
-TBD
+A Low Code platforms that supports full lifecycle API management, including creation, managament and monitoring of API endpoints.
+
+Some Low Code platforms  unified, single solution for iPaaS and full lifecycle API management. Anypoint Platform, including CloudHub™ and Mule ESB™, is built on proven open-source software for fast and reliable on-premises and cloud integration withou
 
 - [MuleSoft](https://www.mulesoft.com/platform/api-management) - Use Anypoint Platform™ to manage your API lifecycle, quickly design, test, and publish APIs.
 - [Workato API Management](https://docs.workato.com/api-management.html) - Turn callable recipes into endpoints and organize the endpoints into API collections, making it easier for users to find and consume the endpoints through other recipes or third-party apps, without requiring access to your Workato account.
