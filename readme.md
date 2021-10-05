@@ -59,7 +59,7 @@ An advanced development platform that enable organizations to create powerful en
 - [APEX (Oracle)](https://apex.oracle.com/en/platform/low-code/) - Oracle Application Express (APEX) is a low-code development platform that enables you to build scalable, secure enterprise apps, with world-class features, that can be deployed anywhere.
 - [Salesforce Platform, prev. Force.com (Salesforce)](https://www.salesforce.com/products/platform) - Click, create, and ship from anywhere with low code.
 
-### Low Code Business Process Management
+### Business Process Management
 
 A Low Code Application Platform dedicated to streamlining business processes.
 
