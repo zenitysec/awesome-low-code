@@ -18,6 +18,8 @@ Contributions welcome! Please, read the [contribution guidelines](contributing.m
 - [Reference Resources](#reference-resources)
 - [Learning Resources](#learning-resources)
 - [Samples, Templates and Solutions](#samples-templates-and-solutions)
+- [Community](#community)
+- [Blogs](#blogs)
 - [Other Lists](#other-lists)
 
 ## Platforms
@@ -131,6 +133,22 @@ A Low Code platform which supports full lifecycle API management, including crea
 - [Message Center in Teams](https://github.com/ericsche/MCinTeams) - Message Center in Teams is a simple PowerAutomate Solution to gather Message Center Announcement and post them in a Teams Channel.
 - [Consume Power BI](https://github.com/ferrybouwman/Power-BI-Read-Only-REST-API) - Solution based on either Powershell or Power Automate (Flow) to consume the recently released Power BI Asynchronous Unified Scanning API.
 - [Post List Item To Twitter](https://github.com/vaibhav21791/PostListItemToTwitter) - A Microsoft Power Automate Flow to Post a SharePoint List Item to Twitter along with media content.
+
+## Community
+
+### Power Platform (Microsoft)
+
+- [Microsoft Power Apps Official Community](https://powerusers.microsoft.com/t5/Power-Apps-Community/ct-p/PowerApps1)
+- [Microsoft Power Automate Official Community](https://powerusers.microsoft.com/t5/Microsoft-Power-Automate/ct-p/MPACommunity)
+- [Microsoft Power Virtual Agents Official Community](https://powerusers.microsoft.com/t5/Power-Virtual-Agents-Community/ct-p/PVACommunity)
+- [Microsoft Power BI Official Community](https://community.powerbi.com/)
+- [PowP.Co Discord Community](https://powp.co/) - A Discord community of Power Platform enthusiasts.
+
+## Blogs
+
+### Power Platform (Microsoft)
+
+- [PowPco](https://blog.powp.co/) - Single-stop community for everything Power Platform Community related.
 
 ## Other Lists
 
