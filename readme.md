@@ -8,7 +8,7 @@ Contributions welcome! Please, read the [contribution guidelines](contributing.m
 
 - [Platforms](#platforms)
    - [Integration Platform as a Service](#integration-platform-as-a-service)
-   - [Business Process Automation](#business-process-automation)
+   - [Citizen Automation and Development Platform](#citizen-automation-and-development-platform)
    - [Robotic Process Automation](#robotic-process-automation)
    - [Low Code Application Platform](#low-code-application-platform)
    - [Business Process Management](#business-process-management)
@@ -32,10 +32,11 @@ A platform that help organizations control, simplify and standardize the way tha
 - [MuleSoft (Salesforce)](https://mulesoft.com/) - MuleSoft provides an integration and API platform that makes it easy to connect data from any system to create connected experiences.
 - [Workato](https://www.workato.com) - Workato is an enterprise automation platform that helps organizations work faster and smarter without compromising governance and security.
 
-### Business Process Automation
+### Citizen Automation and Development Platform
 
-An automation platform that enables business users with no coding background to automate complicated business workflows and actions by providing an easy to use drag&drop interface. Automations that are built in such platforms are usually built in an event-driven mode (triggers) around critical business processes. BPA can be consumed via a SaaS or an on-premises appliance.
+A development platform for business users (citizen developer is a term for business users, not a role or a job title) that doesn't require coding skills and is based on intuitive drag&drop interfaces. Applications created in such platforms are usually made to automate or improve efficiency of business processes and of personal productivity, without going through IT. CADP are usually consumed as SaaS.
 
+- [Power Automate (Microsoft)](https://flow.microsoft.com/) - Power Automate is an online workflow service that automates actions across the most common apps and services.
 - [Zapier](https://zapier.com/) - Zapier allows its users to easily connect and automate the apps they use.
 - [Einstein Automate (Salesforce)](https://www.salesforce.com/products/platform/einstein-automate/) - Empower your employees to do more of what matters by automating business processes easily without needing specialized development skills.
 - [Jira Automation (Atlassian)](https://www.atlassian.com/software/jira/features/automation) - Automation is a no-code rule builder that enables customers to build if-this-then-that-rules based on events in Jira.
@@ -68,7 +69,7 @@ An advanced development platform that enable organizations to create powerful en
 
 ### Business Process Management
 
-A Low Code Application Platform dedicated to streamlining business processes.
+A Low Code Application Platform dedicated to streamlining business processes. These platforms enable business users to automate complicated business workflows and actions with no coding background by providing an easy to use drag&drop interface. Automations that are built in such platforms are usually built in an event-driven mode (triggers) around critical business processes. BPA can be consumed via a SaaS or an on-premises appliance.
 
 - [PegaSystems](https://www.pega.com/) - PegaSystems provides business process and customer relationship management solutions for organizations.
 - [AgilePoint](https://agilepoint.com/) - Deploy business-changing ideas in minutes, not months, with the AgilePoint digital process automation platform.
