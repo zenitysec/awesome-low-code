@@ -149,6 +149,7 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ### Power Platform (Microsoft)
 
+- [Zenity](https://zenity.io/blog) - Low-Code security and governance.
 - [PowPco](https://blog.powp.co/) - Single-stop community for everything Power Platform Community related.
 
 ## Other Lists
