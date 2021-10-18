@@ -1,3 +1,7 @@
+<div align="center">
+	<img width="500" height="350" src="media/logo.png" alt="Awesome">
+</div>
+
 # Awesome Low Code [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Awesome Low Code platforms, vendors, tools and resources.
