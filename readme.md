@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="500" height="350" src="media/logo.png" alt="Awesome">
+	<img width="250" height="175" src="media/logo.png" alt="Awesome">
 </div>
 
 # Awesome Low Code [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
