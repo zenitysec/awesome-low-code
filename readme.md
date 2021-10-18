@@ -1,5 +1,17 @@
 <div align="center">
-	<img width="250" height="175" src="media/logo.png" alt="Awesome">
+	<img width="250" height="175" src="media/logo.png" alt="Awesome low-code">
+	<br>
+	<br>
+	<hr>
+	<p>
+		<sup>Maintained by:</sup>
+		<br>
+		<br>
+		<a href="https://zenity.io">
+			<img src="https://zenity.io/wp-content/uploads/2021/05/zenity-logo.svg"/>
+		</a>
+	</p>
+	<hr>
 </div>
 
 # Awesome Low Code [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
