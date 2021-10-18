@@ -1,3 +1,7 @@
+<div align="center">
+	<img width="500" height="350" src="media/logo.png" alt="Awesome">
+</div>
+
 # Awesome Low Code [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Awesome Low Code platforms, vendors, tools and resources.
@@ -113,6 +117,10 @@ A Low Code platform which supports full lifecycle API management, including crea
 - [Power Platform Connectors](https://github.com/microsoft/PowerPlatformConnectors) - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
 - [Microsoft Power Fx](https://github.com/microsoft/Power-Fx) - Power Fx low-code programming language.
 
+### Workato
+
+- [Custom Connector Docs](https://github.com/workato/custom_connector_docs) - Source files for Workato custom connector documentation.
+
 ## Learning Resources
 
 ### Power Platform (Microsoft)
@@ -120,6 +128,10 @@ A Low Code platform which supports full lifecycle API management, including crea
 - [Power Fx Samples](https://github.com/pnp/powerfx-samples) - This repository contains samples for Power Fx low-code programming language.
 - [Power Apps & Azure Lab](https://github.com/microsoft/PowerApps-Azure-Lab) - Repository to host the PowerApps Azure Lab.
 - [PL-900: Power Platform Fundamentals](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) - Power Platform Fundamentals course materials.
+
+### Workato
+
+- [Embedding Guide](https://github.com/workato/full-embed-sample) - A guided example on how to use Workato embedded.
 
 ## Samples, Templates and Solutions
 
@@ -135,6 +147,11 @@ A Low Code platform which supports full lifecycle API management, including crea
 - [Consume Power BI](https://github.com/ferrybouwman/Power-BI-Read-Only-REST-API) - Solution based on either Powershell or Power Automate (Flow) to consume the recently released Power BI Asynchronous Unified Scanning API.
 - [Post List Item To Twitter](https://github.com/vaibhav21791/PostListItemToTwitter) - A Microsoft Power Automate Flow to Post a SharePoint List Item to Twitter along with media content.
 
+### Workato
+
+- [Solution Marketplace](https://www.workato.com/solutions) - A curated list of ready-to-use solutions built by Workato and vendors.
+- [Support History](https://support.workato.com/en/support/solutions) - A public repository of resolved support tickets to help tackle issues. 
+
 ## Community
 
 ### Power Platform (Microsoft)
@@ -145,11 +162,21 @@ A Low Code platform which supports full lifecycle API management, including crea
 - [Microsoft Power BI Official Community](https://community.powerbi.com/)
 - [PowP.Co Discord Community](https://powp.co/) - A Discord community of Power Platform enthusiasts.
 
+### Workato
+
+- [Workato Communities](https://community.workato.com/) - The official Workato communities website.
+- [Systematic](https://systematic.workato.com/) - The only community for business systems.
+
 ## Blogs
 
 ### Power Platform (Microsoft)
 
+- [Zenity](https://zenity.io/blog) - Low-Code security and governance.
 - [PowPco](https://blog.powp.co/) - Single-stop community for everything Power Platform Community related.
+
+### Workato
+
+- [The Connector](https://www.workato.com/the-connector/) - Workato blog on Business Automation.
 
 ## Other Lists
 
