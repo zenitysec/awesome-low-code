@@ -6,6 +6,8 @@
 
 > A curated list of Awesome Low Code platforms, vendors, tools and resources.
 
+> Low Code platforms provide a development and runtime environment used to create all kinds of software application through an intuitive experience, with minimal to no coding skills requires.
+
 Contributions welcome! Please, read the [contribution guidelines](contributing.md) first.
 
 ## Contents
