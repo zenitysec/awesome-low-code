@@ -173,7 +173,7 @@ A Low Code platform which supports full lifecycle API management, including crea
 ## Blogs
 
 ### Power Platform (Microsoft)
-- [Addressing the Low-Code Security Elephant in the Room](https://www.darkreading.com/edge-articles/addressing-the-low-code-security-elephant-in-the-room) - The low-code shared responsibility model.
+- [Addressing the Low-Code Security Elephant in the Room](https://www.darkreading.com/edge-articles/addressing-the-low-code-security-elephant-in-the-room) - The shared responsibility model for low-code applications.
 - [Zenity](https://zenity.io/blog) - Low-Code security and governance.
 - [PowPco](https://blog.powp.co/) - Single-stop community for everything Power Platform Community related.
 
