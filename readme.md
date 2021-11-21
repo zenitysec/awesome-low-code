@@ -55,6 +55,7 @@ An advanced development platform that enable organizations to create powerful en
 - [BettyBlocks](https://www.bettyblocks.com/) - The #1 no-code platform for innovation, agility and empowerment. Used to create mobile, business and web applications at lightning speed.
 - [APEX (Oracle)](https://apex.oracle.com/en/platform/low-code/) - A low-code development platform that enables you to build scalable, secure enterprise apps, with world-class features, that can be deployed anywhere.
 - [Salesforce Platform, prev. Force.com (Salesforce)](https://www.salesforce.com/products/platform) - Click, create, and ship from anywhere with low code.
+- [n8n](https://n8n.io/) - Workflow automation tool with many integrations and with fair-code license.
 
 ### Business Process Management
 
