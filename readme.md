@@ -32,7 +32,7 @@ Contributions welcome! Please, read the [contribution guidelines](contributing.m
 
 ### Citizen Automation and Development Platform
 
-A development platform for business users (citizen developer is a term for business users, not a role or a job title) that doesn't require coding skills and is based on intuitive drag&drop interfaces. Applications created in such platforms are usually made to automate or improve efficiency of business processes and of personal productivity, without going through IT. CADP are usually consumed as SaaS.
+A development platform for business users (citizen developer is a term for business users, not a role or a job title) that doesn't require coding skills and is based on intuitive drag & drop interfaces. Applications created in such platforms are usually made to automate or improve efficiency of business processes and of personal productivity, without going through IT. CADP are usually consumed as SaaS.
 
 - [Power Automate (Microsoft)](https://flow.microsoft.com/) - An online workflow service that automates actions across the most common apps and services.
 - [Zapier](https://zapier.com/) - Allows its users to easily connect and automate the apps they use.
@@ -43,7 +43,7 @@ A development platform for business users (citizen developer is a term for busin
 
 ### Low Code Application Platform
 
-An advanced development platform that enable organizations to create powerful enterprise grade applications with no to minimum extra coding requirements with easy to use drag&drop interfaces. Since such platforms simplify the application development process, more types of personas can contribute and accelerate the development process. Those platforms are PaaS development platforms, and can also reduce development cost and maintenance.
+An advanced development platform that enable organizations to create powerful enterprise grade applications with no to minimum extra coding requirements with easy to use drag & drop interfaces. Since such platforms simplify the application development process, more types of personas can contribute and accelerate the development process. Those platforms are PaaS development platforms, and can also reduce development cost and maintenance.
 
 - [Power Apps (Microsoft)](https://powerapps.com/) - Build apps in hours—not months—that easily connect to data, use Excel-like expressions to add logic, and run on the web, iOS, and Android devices.
 - [Power BI](https://powerbi.microsoft.com/) - Unify data from many sources to create interactive, immersive dashboards and reports that provide actionable insights and drive business results.
@@ -58,7 +58,7 @@ An advanced development platform that enable organizations to create powerful en
 
 ### Business Process Management
 
-A Low Code Application Platform dedicated to streamlining business processes. These platforms enable business users to automate complicated business workflows and actions with no coding background by providing an easy to use drag&drop interface. Automations that are built in such platforms are usually built in an event-driven mode (triggers) around critical business processes. BPA can be consumed via a SaaS or an on-premises appliance.
+A Low Code Application Platform dedicated to streamlining business processes. These platforms enable business users to automate complicated business workflows and actions with no coding background by providing an easy to use drag & drop interface. Automations that are built in such platforms are usually built in an event-driven mode (triggers) around critical business processes. BPA can be consumed via a SaaS or an on-premises appliance.
 
 - [PegaSystems](https://www.pega.com/) - Provides business process and customer relationship management solutions for organizations.
 - [AgilePoint](https://agilepoint.com/) - Deploy business-changing ideas in minutes, not months, with the AgilePoint digital process automation platform.
@@ -81,7 +81,7 @@ An automation platform that helps organizations remove human manual intensive pr
 
 ### Intelligent Virtual Agent
 
-A software application which is built and configured by its users to perform manual repetitive and error-prone tasks in an automated faster fashion. Bots are built and configured mostly in low code platforms via easy to use drag&drop interfaces. Examples to the use of bots could be seen in user conversation via messaging and voice platforms that help them take decisions and act through business processes.
+A software application which is built and configured by its users to perform manual repetitive and error-prone tasks in an automated faster fashion. Bots are built and configured mostly in low code platforms via easy to use drag & drop interfaces. Examples to the use of bots could be seen in user conversation via messaging and voice platforms that help them take decisions and act through business processes.
 
 - [Power Virtual Agents (Microsoft)](https://powervirtualagents.microsoft.com/) - Lets you create powerful chatbots that can answer questions posed by your customers, other employees, or visitors to your website or service.
 - [Workato Workbot](https://docs.workato.com/workbot/overview.html) - A bot platform that allows you to build customizable workflows.
