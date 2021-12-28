@@ -32,7 +32,7 @@ Contributions welcome! Please, read the [contribution guidelines](contributing.m
 
 ### Citizen Automation and Development Platform
 
-A development platform for business users (citizen developer is a term for business users, not a role or a job title) that doesn't require coding skills and is based on intuitive drag&drop interfaces. Applications created in such platforms are usually made to automate or improve efficiency of business processes and of personal productivity, without going through IT. CADP are usually consumed as SaaS.
+A development platform for business users (citizen developer is a term for business users, not a role or a job title) that doesn't require coding skills and is based on intuitive drag & drop interfaces. Applications created in such platforms are usually made to automate or improve efficiency of business processes and of personal productivity, without going through IT. CADP are usually consumed as SaaS.
 
 - [Power Automate (Microsoft)](https://flow.microsoft.com/) - An online workflow service that automates actions across the most common apps and services.
 - [Zapier](https://zapier.com/) - Allows its users to easily connect and automate the apps they use.
@@ -43,33 +43,35 @@ A development platform for business users (citizen developer is a term for busin
 
 ### Low Code Application Platform
 
-An advanced development platform that enable organizations to create powerful enterprise grade applications with no to minimum extra coding requirements with easy to use drag&drop interfaces. Since such platforms simplify the application development process, more types of personas can contribute and accelerate the development process. Those platforms are PaaS development platforms, and can also reduce development cost and maintenance.
+An advanced development platform that enable organizations to create powerful enterprise grade applications with no to minimum extra coding requirements with easy to use drag & drop interfaces. Since such platforms simplify the application development process, more types of personas can contribute and accelerate the development process. Those platforms are PaaS development platforms, and can also reduce development cost and maintenance.
 
 - [Power Apps (Microsoft)](https://powerapps.com/) - Build apps in hours—not months—that easily connect to data, use Excel-like expressions to add logic, and run on the web, iOS, and Android devices.
 - [Power BI](https://powerbi.microsoft.com/) - Unify data from many sources to create interactive, immersive dashboards and reports that provide actionable insights and drive business results.
-- [Appian](https://appian.com/) - Provides a low-code software development platform that enables organizations to rapidly develop powerful applications.
+- [Appian](https://appian.com/) - Provides a Low Code software development platform that enables organizations to rapidly develop powerful applications.
 - [Mendix](https://mendix.com/) - The fastest and easiest high-productivity platform to create and continuously improve multi-channel applications at scale.
-- [OutSystems](https://www.outsystems.com/) - A low-code platform that enables businesses to develop, deploy, and manage enterprise-grade apps.
+- [OutSystems](https://www.outsystems.com/) - A Low Code platform that enables businesses to develop, deploy, and manage enterprise-grade apps.
 - [Now Platform (ServiceNow)](https://www.servicenow.com/now-platform.html) - Drive connected digital workflows across the enterprise, deliver modern, consumer-like experiences, and accelerate time-to-value and innovation.
 - [Creator (Zoho)](https://www.zoho.com/creator/low-code-platform/) - Build applications from scratch without having to write endless lines of code.
 - [BettyBlocks](https://www.bettyblocks.com/) - The #1 no-code platform for innovation, agility and empowerment. Used to create mobile, business and web applications at lightning speed.
+- [APEX (Oracle)](https://apex.oracle.com/en/platform/low-code/) - A Low Code development platform that enables you to build scalable, secure enterprise apps, with world-class features, that can be deployed anywhere.
+- [Salesforce Platform, prev. Force.com (Salesforce)](https://www.salesforce.com/products/platform) - Click, create, and ship from anywhere with Low Code.
 - [APEX (Oracle)](https://apex.oracle.com/en/platform/low-code/) - A low-code development platform that enables you to build scalable, secure enterprise apps, with world-class features, that can be deployed anywhere.
 - [Salesforce Platform, prev. Force.com (Salesforce)](https://www.salesforce.com/products/platform) - Click, create, and ship from anywhere with low code.
 - [n8n](https://n8n.io/) - Workflow automation tool with many integrations and with fair-code license.
 
 ### Business Process Management
 
-A Low Code Application Platform dedicated to streamlining business processes. These platforms enable business users to automate complicated business workflows and actions with no coding background by providing an easy to use drag&drop interface. Automations that are built in such platforms are usually built in an event-driven mode (triggers) around critical business processes. BPA can be consumed via a SaaS or an on-premises appliance.
+A Low Code Application Platform dedicated to streamlining business processes. These platforms enable business users to automate complicated business workflows and actions with no coding background by providing an easy to use drag & drop interface. Automations that are built in such platforms are usually built in an event-driven mode (triggers) around critical business processes. BPA can be consumed via a SaaS or an on-premises appliance.
 
 - [PegaSystems](https://www.pega.com/) - Provides business process and customer relationship management solutions for organizations.
 - [AgilePoint](https://agilepoint.com/) - Deploy business-changing ideas in minutes, not months, with the AgilePoint digital process automation platform.
 - [QuickBase](https://www.quickbase.com/) - Helps businesses quickly turn ideas about better ways to work into apps that make them more efficient, informed, and productive.
-- [Creatio](https://www.creatio.com/) - A global software company providing a leading low-code platform for process management and CRM.
+- [Creatio](https://www.creatio.com/) - A global software company providing a leading Low Code platform for process management and CRM.
 - [AuraQuantic](https://www.auraquantic.com/) - A digital platform designed for business users to easily and rapidly build unlimited processes and applications.
 - [Kintone](https://www.kintone.com/) - The best productivity software to business transformation Platform.
 - [ProntoForms](https://www.prontoforms.com/) - Provides mobile business solutions to automate field sales, field service, and field data collection.
-- [TrackVia](https://trackvia.com/) - The leading low-code workflow platform for operations.
-- [NewGen](https://newgensoft.com/) - Simplify your complex, content-driven business needs with one comprehensive low code platform.
+- [TrackVia](https://trackvia.com/) - The leading Low Code workflow platform for operations.
+- [NewGen](https://newgensoft.com/) - Simplify your complex, content-driven business needs with one comprehensive Low Code platform.
 
 ### Robotic Process Automation
 
@@ -82,7 +84,7 @@ An automation platform that helps organizations remove human manual intensive pr
 
 ### Intelligent Virtual Agent
 
-A software application which is built and configured by its users to perform manual repetitive and error-prone tasks in an automated faster fashion. Bots are built and configured mostly in low code platforms via easy to use drag&drop interfaces. Examples to the use of bots could be seen in user conversation via messaging and voice platforms that help them take decisions and act through business processes.
+A software application which is built and configured by its users to perform manual repetitive and error-prone tasks in an automated faster fashion. Bots are built and configured mostly in Low Code platforms via easy to use drag & drop interfaces. Examples to the use of bots could be seen in user conversation via messaging and voice platforms that help them take decisions and act through business processes.
 
 - [Power Virtual Agents (Microsoft)](https://powervirtualagents.microsoft.com/) - Lets you create powerful chatbots that can answer questions posed by your customers, other employees, or visitors to your website or service.
 - [Workato Workbot](https://docs.workato.com/workbot/overview.html) - A bot platform that allows you to build customizable workflows.
@@ -118,7 +120,7 @@ A Low Code platform which supports full lifecycle API management, including crea
 ### Power Platform (Microsoft)
 
 - [Power Platform Connectors](https://github.com/microsoft/PowerPlatformConnectors) - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
-- [Microsoft Power Fx](https://github.com/microsoft/Power-Fx) - Power Fx low-code programming language.
+- [Microsoft Power Fx](https://github.com/microsoft/Power-Fx) - Power Fx Low Code programming language.
 
 ### Workato
 
@@ -128,7 +130,7 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ### Power Platform (Microsoft)
 
-- [Power Fx Samples](https://github.com/pnp/powerfx-samples) - This repository contains samples for Power Fx low-code programming language.
+- [Power Fx Samples](https://github.com/pnp/powerfx-samples) - This repository contains samples for Power Fx Low Code programming language.
 - [Power Apps & Azure Lab](https://github.com/microsoft/PowerApps-Azure-Lab) - Repository to host the PowerApps Azure Lab.
 - [PL-900: Power Platform Fundamentals](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) - Power Platform Fundamentals course materials.
 
@@ -173,6 +175,8 @@ A Low Code platform which supports full lifecycle API management, including crea
 ## Blogs
 
 ### Power Platform (Microsoft)
+
+- [Zenity](https://zenity.io/blog) - Low Code security and governance.
 - [Addressing the Low-Code Security Elephant in the Room](https://www.darkreading.com/edge-articles/addressing-the-low-code-security-elephant-in-the-room) - The shared responsibility model for low-code applications.
 - [Zenity](https://zenity.io/blog) - Low-Code security and governance.
 - [PowPco](https://blog.powp.co/) - Single-stop community for everything Power Platform Community related.
