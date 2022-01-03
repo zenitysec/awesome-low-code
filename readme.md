@@ -55,8 +55,6 @@ An advanced development platform that enable organizations to create powerful en
 - [BettyBlocks](https://www.bettyblocks.com/) - The #1 no-code platform for innovation, agility and empowerment. Used to create mobile, business and web applications at lightning speed.
 - [APEX (Oracle)](https://apex.oracle.com/en/platform/low-code/) - A Low Code development platform that enables you to build scalable, secure enterprise apps, with world-class features, that can be deployed anywhere.
 - [Salesforce Platform, prev. Force.com (Salesforce)](https://www.salesforce.com/products/platform) - Click, create, and ship from anywhere with Low Code.
-- [APEX (Oracle)](https://apex.oracle.com/en/platform/low-code/) - A low-code development platform that enables you to build scalable, secure enterprise apps, with world-class features, that can be deployed anywhere.
-- [Salesforce Platform, prev. Force.com (Salesforce)](https://www.salesforce.com/products/platform) - Click, create, and ship from anywhere with low code.
 - [n8n](https://n8n.io/) - Workflow automation tool with many integrations and with fair-code license.
 
 ### Business Process Management
@@ -178,7 +176,6 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 - [Zenity](https://zenity.io/blog) - Low Code security and governance.
 - [Addressing the Low-Code Security Elephant in the Room](https://www.darkreading.com/edge-articles/addressing-the-low-code-security-elephant-in-the-room) - The shared responsibility model for low-code applications.
-- [Zenity](https://zenity.io/blog) - Low-Code security and governance.
 - [PowPco](https://blog.powp.co/) - Single-stop community for everything Power Platform Community related.
 
 ### Workato
