@@ -10,6 +10,9 @@
 		<a href="https://zenity.io">
 			<img src="/media/zenity_logo.svg"/>
 		</a>
+        <p>
+        Secure and govern your Low Code No Code applications without disrupting the business
+        </p>
 	</p>
 	<hr>
 </div>
