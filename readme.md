@@ -1,7 +1,18 @@
 <div align="center">
-	<img width="250" height="175" src="media/logo.png" alt="Awesome">
+	<img width="250" height="175" src="media/repo_logo.png" alt="Awesome Low Code">
+	<br>
+	<br>
+	<hr>
+	<p>
+		<sup>Maintained by:</sup>
+		<br>
+		<br>
+		<a href="https://zenity.io">
+			<img src="/media/zenity_logo.svg"/>
+		</a>
+	</p>
+	<hr>
 </div>
-
 # Awesome Low Code [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Awesome Low Code platforms, vendors, tools and resources.
