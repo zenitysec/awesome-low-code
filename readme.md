@@ -7,7 +7,7 @@
 		<sup>Maintained by:</sup>
 		<br>
 		<br>
-		<a href="https://zenity.io">
+		<a href="https://www.zenity.io">
 			<img src="/media/zenity_logo.svg"/>
 		</a>
         <p>
