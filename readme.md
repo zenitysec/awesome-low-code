@@ -71,6 +71,7 @@ An advanced development platform that enable organizations to create powerful en
 - [APEX (Oracle)](https://apex.oracle.com/en/platform/low-code/) - A Low Code development platform that enables you to build scalable, secure enterprise apps, with world-class features, that can be deployed anywhere.
 - [Salesforce Platform, prev. Force.com (Salesforce)](https://www.salesforce.com/products/platform) - Click, create, and ship from anywhere with Low Code.
 - [n8n](https://n8n.io/) - Workflow automation tool with many integrations and with fair-code license.
+- [Flatlogic Platform](https://flatlogic.com/generator) - Generate full-stack database-based (CRUD) React, Vue, Angular apps in just 3 steps.
 
 ### Business Process Management
 
