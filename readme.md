@@ -73,7 +73,7 @@ An advanced development platform that enable organizations to create powerful en
 - [n8n](https://n8n.io/) - Workflow automation tool with many integrations and with fair-code license.
 - [ILLA Cloud](https://www.illacloud.com/) - A low-code platform for developers to build internal tools in minutes.
 - [Loopple](https://www.loopple.com) - A low code drag and drop dashboard builder.
-- [Appsheet (Google)] (https://about.appsheet.com/home/) - Google AppSheet is a no-code development platform that enables users to create custom mobile and web applications without requiring extensive programming knowledge. It provides a drag-and-drop interface for building apps, and it can integrate with various data sources and APIs to automate workflows and improve productivity.
+- [Appsheet (Google)](https://about.appsheet.com/home/) - Google AppSheet is a no-code development platform that enables users to create custom mobile and web applications without requiring extensive programming knowledge. It provides a drag-and-drop interface for building apps, and it can integrate with various data sources and APIs to automate workflows and improve productivity.
 
 ### Business Process Management
 
@@ -97,9 +97,9 @@ An automation platform that helps organizations remove human manual intensive pr
 - [Servicetrace RPA (Salesforce)](https://www.servicetrace.com/) - Develop innovation in robotic solutions.
 - [Appian RPA](https://appian.com/platform/complete-automation/robotic-process-automation-rpa.html) - Orchestrate RPA bots with people, systems, and data in a single workflow, scaling automation across your entire organization.
 - [Workato RPA](https://www.workato.com/modern-rpa) - Integration-powered RPA for Intelligent Automation.
-- [UiPath] (https://www.uipath.com/) - a leading provider of robotic process automation (RPA) software, which enables organizations to automate repetitive and time-consuming tasks, such as data entry and data processing. Its platform includes a visual designer for building automation workflows, a robot for executing the workflows, and analytics tools for monitoring and optimizing performance.
-- [Automation Anywhere] (https://www.automationanywhere.com/) - a provider of robotic process automation (RPA) software that allows businesses to automate tasks using a combination of rules-based decision-making, machine learning, and artificial intelligence. Its platform includes a user-friendly interface for creating and deploying automation, and it can be used to automate tasks across various departments and industries.
-- [BluePrism] (https://www.blueprism.com/) - a provider of robotic process automation (RPA) software that allows organizations to automate repetitive and manual tasks, such as data entry, without requiring extensive coding knowledge. Its platform includes a digital workforce that can handle high-volume and complex tasks, and it can integrate with various systems and applications to streamline business operations.
+- [UiPath](https://www.uipath.com/) - a leading provider of robotic process automation (RPA) software, which enables organizations to automate repetitive and time-consuming tasks, such as data entry and data processing. Its platform includes a visual designer for building automation workflows, a robot for executing the workflows, and analytics tools for monitoring and optimizing performance.
+- [AutomationAnywhere](https://www.automationanywhere.com/) - a provider of robotic process automation (RPA) software that allows businesses to automate tasks using a combination of rules-based decision-making, machine learning, and artificial intelligence. Its platform includes a user-friendly interface for creating and deploying automation, and it can be used to automate tasks across various departments and industries.
+- [BluePrism](https://www.blueprism.com/) - a provider of robotic process automation (RPA) software that allows organizations to automate repetitive and manual tasks, such as data entry, without requiring extensive coding knowledge. Its platform includes a digital workforce that can handle high-volume and complex tasks, and it can integrate with various systems and applications to streamline business operations.
 
 ### Intelligent Virtual Agent
 
