@@ -195,3 +195,8 @@ repo
 ILLA
 illacloud
 loopple
+UiPath
+AutomationAnywhere
+BluePrism
+Appsheet
+Google
