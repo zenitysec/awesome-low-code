@@ -71,6 +71,7 @@ An advanced development platform that enable organizations to create powerful en
 - [APEX (Oracle)](https://apex.oracle.com/en/platform/low-code/) - A Low Code development platform that enables you to build scalable, secure enterprise apps, with world-class features, that can be deployed anywhere.
 - [Salesforce Platform, prev. Force.com (Salesforce)](https://www.salesforce.com/products/platform) - Click, create, and ship from anywhere with Low Code.
 - [n8n](https://n8n.io/) - Workflow automation tool with many integrations and with fair-code license.
+- [Linx](https:/linx.software) - General-purpose low-code platform for building and hosting backends like APIs, automations and integrations.
 - [DronaHQ](https://www.dronahq.com/?ref=github-gs) - Drag and drop low code platform to build internal apps for web as well as mobile.
 - [ILLA Cloud](https://www.illacloud.com/) - A low-code platform for developers to build internal tools in minutes.
 - [Loopple](https://www.loopple.com) - A low code drag and drop dashboard builder.
