@@ -55,6 +55,7 @@ A development platform for business users (citizen developer is a term for busin
 - [Jira Automation (Atlassian)](https://www.atlassian.com/software/jira/features/automation) - Automation is a No Code rule builder that enables customers to build if-this-then-that-rules based on events in Jira.
 - [Trello Power-Ups (Atlassian)](https://trello.com/power-ups/category/automation) - Helps teams meet their unique business needs through adaptable features and integrations.
 - [Flow (Zoho)](https://www.zoho.com/flow/) - An integration platform that helps you connect your apps without any code.
+- [FormNX](https://formnx.com) - A no-code platform that helps to create forms Without Coding for Free. It also provides integration options, with webhook, Mailchimp, you can embed forms in your websites or web applications easily without any coding.
 
 ### Low Code Application Platform
 
