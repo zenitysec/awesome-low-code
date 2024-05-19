@@ -205,3 +205,4 @@ serverless
 yepcode
 DronaHQ
 dronahq
+Naologic
