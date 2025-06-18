@@ -142,6 +142,10 @@ A Low Code platform which supports full lifecycle API management, including crea
 - [Flow & Power Apps Migrator](https://github.com/Zerg00s/FlowPowerAppsMigrator) - Converts SharePoint Data sources for the MS Flow and PowerApps to a new tenant of your choice.
 - [SharePoint Workflow Converter](https://github.com/TracyGH/SharePointWorkflowConverter) - A proof-of-concept C# console application for retrieving legacy 2010 & 2013 custom SharePoint workflow definition files, and creating new Power Automate flows programmatically.
 
+
+### Power Platform (Other)
+- [SmartXML](https://redata.dev/smartxml) - An application for parsing XML of any complexity and uploading it to a database of data.  Does not require programming experience.
+
 ## Reference Resources
 
 ### Power Platform (Microsoft)
