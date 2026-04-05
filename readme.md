@@ -1,4 +1,4 @@
-<div align="center">
+<div align=center>
 	<img width="250" height="175" src="media/repo_logo.png" alt="Awesome Low Code">
 	<br>
 	<br>
@@ -10,9 +10,8 @@
 		<a href="https://www.zenity.io">
 			<img src="/media/zenity_logo.svg"/>
 		</a>
-        <p>
-        Secure and govern your Low Code No Code applications without disrupting the business
-        </p>
+        <br>
+        <sub>Secure AI Agents Everywhere</sub>
 	</p>
 	<hr>
 </div>
@@ -56,7 +55,7 @@ A development platform for business users (citizen developer is a term for busin
 - [Trello Power-Ups (Atlassian)](https://trello.com/power-ups/category/automation) - Helps teams meet their unique business needs through adaptable features and integrations.
 - [Flow (Zoho)](https://www.zoho.com/flow/) - An integration platform that helps you connect your apps without any code.
 - [FormNX](https://formnx.com) - A no-code platform that helps to create forms without coding for free. It also provides integration options with webhook, Mailchimp, and you can embed forms in your websites or web applications easily without any coding.
-- [Postman Flows](https://learning.postman.com/docs/postman-flows/overview/#get-started-with-flows) -  Postman Flows low-code editor to prototype, build, and deploy API-first apps in a collaborative environment. Create flow modules that automate tasks, integrate systems, and showcase your APIs to others on your team or the entire world with the Postman API Network.
+- [Postman Flows](https://learning.postman.com/docs/postman-flows/overview/#get-started-with-flows) - A low-code editor to prototype, build, and deploy API-first apps in a collaborative environment. Create flow modules that automate tasks, integrate systems, and showcase your APIs to others on your team or the entire world with the Postman API Network.
 
 ### Low Code Application Platform
 
@@ -79,8 +78,8 @@ An advanced development platform that enable organizations to create powerful en
 - [Loopple](https://www.loopple.com) - A low code drag and drop dashboard builder.
 - [Appsheet (Google)](https://about.appsheet.com/home/) - Google AppSheet is a no-code development platform that enables users to create custom mobile and web applications without requiring extensive programming knowledge. It provides a drag-and-drop interface for building apps, and it can integrate with various data sources and APIs to automate workflows and improve productivity.
 - [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment working directly with JavaScript or Python. It allows the development, execution and monitoring of integration and automation processes.
-- [DronaHQ](https://www.dronahq.com/) - DronaHQ - a low code platform helps engineering teams and product managers to build internal tools, custom user journeys, digital experiences, automations, custom admin panels, operational apps 10X faster.
-- [REI3](https://rei3.de/en/home) - REI3 is an open low code application platform. It runs on almost any system, on-premise or in the cloud and is free to use for individuals and organizations.
+- [DronaHQ](https://www.dronahq.com/) - A low code platform that helps engineering teams and product managers to build internal tools, custom user journeys, digital experiences, automations, custom admin panels, operational apps 10X faster.
+- [REI3](https://rei3.de/en/home) - An open low code application platform. It runs on almost any system, on-premise or in the cloud and is free to use for individuals and organizations.
 
 ### Business Process Management
 
@@ -174,8 +173,8 @@ A Low Code platform which supports full lifecycle API management, including crea
 - [Power Apps Branding Template](https://github.com/iAmManCat/PowerApps-Branding-Template) - A template to empower developers and reduce time wasted on control changes.
 - [SharePoint Power Platform Solutions](https://github.com/pnp/sp-power-platform-solutions) - Sample PowerApps solutions designed to be used in SharePoint context.
 - [Power Automate Samples](https://github.com/pnp/powerautomate-samples) - Contains curated community samples for Microsoft Power Automate.
-- [Automatic travel time](https://github.com/wortell/PowerAutomate-AutomatischeReistijd) - Automatic travel time in your Office 365 calendar.
-- [Message Center in Teams](https://github.com/ericsche/MCinTeams) - Message Center in Teams is a simple PowerAutomate Solution to gather Message Center Announcement and post them in a Teams Channel.
+- [Automatic travel time](https://github.com/wortell/PowerAutomate-AutomatischeReistijd) - Adds automatic travel time to your Office 365 calendar.
+- [Message Center in Teams](https://github.com/ericsche/MCinTeams) - A simple PowerAutomate solution to gather Message Center announcements and post them in a Teams channel.
 - [Consume Power BI](https://github.com/ferrybouwman/Power-BI-Read-Only-REST-API) - Solution based on either Powershell or Power Automate (Flow) to consume the recently released Power BI Asynchronous Unified Scanning API.
 - [Post List Item To Twitter](https://github.com/vaibhav21791/PostListItemToTwitter) - A Microsoft Power Automate Flow to Post a SharePoint List Item to Twitter along with media content.
 
