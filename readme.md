@@ -146,6 +146,8 @@ A Low Code platform which supports full lifecycle API management, including crea
 - [Flow & Power Apps Migrator](https://github.com/Zerg00s/FlowPowerAppsMigrator) - Converts SharePoint Data sources for the MS Flow and PowerApps to a new tenant of your choice.
 - [SharePoint Workflow Converter](https://github.com/TracyGH/SharePointWorkflowConverter) - A proof-of-concept C# console application for retrieving legacy 2010 & 2013 custom SharePoint workflow definition files, and creating new Power Automate flows programmatically.
 
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense. [MIT]
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update. [MIT]
 ## Reference Resources
 
 ### Power Platform (Microsoft)
