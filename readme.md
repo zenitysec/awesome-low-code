@@ -84,6 +84,7 @@ An advanced development platform that enable organizations to create powerful en
 - [Iotellect](https://iotellect.com) - A low-code IoT platform for building device integration, data collection, and real-time visualization solutions. Supports 50+ industrial protocols (MQTT, OPC UA, Modbus) with drag-and-drop UI builder.
 - [TemplateFox](https://pdftemplateapi.com/) - A low code PDF generation platform with a drag-and-drop template editor and a REST API to automate document creation at scale.
 - [Rierino](https://rierino.com/) - Developer-first low-code platform for building and orchestrating enterprise backend applications, microservices, and APIs with visual flow design, composable architecture, and embedded AI capabilities. Free self-hosted Community Edition available.
+- [Agentic Workflow (AWFlow)](https://awflow.io) - AI-powered browser extension to automate web tasks, extract data, and run workflows directly in your browser.
 
 ### Business Process Management
 
