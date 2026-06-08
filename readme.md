@@ -137,6 +137,7 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 
 ## Tools, Extensions and Frameworks
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ### Power Platform (Microsoft)
 
