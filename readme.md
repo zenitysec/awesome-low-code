@@ -138,6 +138,8 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ## Tools, Extensions and Frameworks
 
+- [Ceki Browser](https://browser.ceki.me) - Rent real residential Chrome browsers per minute for workflow automation. MCP-native, n8n integration, DevTools protocol, SDKs for Python/JS.
+
 ### Power Platform (Microsoft)
 
 - [XrmToolBox](https://github.com/MscrmTools/XrmToolBox) - An application that gather multiple tools to ease the customization and configuration of Microsoft Dynamics CRM/365/Dataverse/PowerApps.
