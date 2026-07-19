@@ -188,6 +188,10 @@ A Low Code platform which supports full lifecycle API management, including crea
 - [Solution Marketplace](https://www.workato.com/solutions) - A curated list of ready-to-use solutions built by Workato and vendors.
 - [Support History](https://support.workato.com/en/support/solutions) - A public repository of resolved support tickets to help tackle issues.
 
+### n8n
+
+- [ai-automation-templates](https://github.com/H2284AT/ai-automation-templates-) - 350+ free n8n workflow templates for B2B sales automation, self-hostable, GDPR-compliant.
+
 ## Community
 
 ### Power Platform (Microsoft)
