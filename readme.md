@@ -56,6 +56,7 @@ A development platform for business users (citizen developer is a term for busin
 - [Flow (Zoho)](https://www.zoho.com/flow/) - An integration platform that helps you connect your apps without any code.
 - [FormNX](https://formnx.com) - A no-code platform that helps to create forms without coding for free. It also provides integration options with webhook, Mailchimp, and you can embed forms in your websites or web applications easily without any coding.
 - [Postman Flows](https://learning.postman.com/docs/postman-flows/overview/#get-started-with-flows) - A low-code editor to prototype, build, and deploy API-first apps in a collaborative environment. Create flow modules that automate tasks, integrate systems, and showcase your APIs to others on your team or the entire world with the Postman API Network.
+- [Stack Architect](https://stackarchitect.xyz/) - Technical automation guides and webhooks integration resources for low-code environments like Google Apps Script and Make.com.
 
 ### Low Code Application Platform
 
