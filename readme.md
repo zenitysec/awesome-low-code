@@ -221,3 +221,4 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 - [Awesome Microsoft Power Platform](https://github.com/Power-Maverick/awesome-power-platform) - A collection of awesome things regarding the Power Platform ecosystem.
 - [Awesome No Code Low Code](https://github.com/valentin-vogel/awesome-nocode-lowcode) - A collection of awesome No Code and Low Code resources.
+- [n8n Uptime Ping Alert](https://github.com/DeusAcc/n8n-uptime-ping-alert) - Free n8n workflow that checks a site every 5 minutes and alerts on Telegram only on state change.
