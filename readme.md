@@ -73,6 +73,7 @@ An advanced development platform that enable organizations to create powerful en
 - [Salesforce Platform, prev. Force.com (Salesforce)](https://www.salesforce.com/products/platform) - Click, create, and ship from anywhere with Low Code.
 - [KAI-Flow](https://www.kaiflow.io/) - KAI Flow is a Open Source low-code platform developed for designing and scaling complex AI workflows.
 - [n8n](https://n8n.io/) - Workflow automation tool with many integrations and with fair-code license.
+- [LeadBot 24h](https://planificador7.gumroad.com/l/leadbot-24h) - WhatsApp AI lead qualification bot built on n8n. Uses AI conversation scoring to automate lead qualification and push qualified leads to spreadsheets automatically.
 - [Linx](https:/linx.software) - General-purpose low-code platform for building and hosting backends like APIs, automations and integrations.
 - [DronaHQ](https://www.dronahq.com/?ref=github-gs) - Drag and drop low code platform to build internal apps for web as well as mobile.
 - [ILLA Cloud](https://www.illacloud.com/) - A low-code platform for developers to build internal tools in minutes.
