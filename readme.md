@@ -84,6 +84,9 @@ An advanced development platform that enable organizations to create powerful en
 - [Iotellect](https://iotellect.com) - A low-code IoT platform for building device integration, data collection, and real-time visualization solutions. Supports 50+ industrial protocols (MQTT, OPC UA, Modbus) with drag-and-drop UI builder.
 - [TemplateFox](https://pdftemplateapi.com/) - A low code PDF generation platform with a drag-and-drop template editor and a REST API to automate document creation at scale.
 - [Rierino](https://rierino.com/) - Developer-first low-code platform for building and orchestrating enterprise backend applications, microservices, and APIs with visual flow design, composable architecture, and embedded AI capabilities. Free self-hosted Community Edition available.
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 
 ### Business Process Management
 
